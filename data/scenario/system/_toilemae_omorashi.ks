@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/tobira_omorashi1.png"  ]
+[preload  storage="./data/bgimage/tobira_omorashi2.png"  ]
+[preload  storage="./data/bgimage/rouka.jpg"  ]
+[preload  storage="./data/fgimage/chara/5/odoroki.png"  ]
+[preload  storage="./data/bgimage/black_back.png"  ]
+[return]

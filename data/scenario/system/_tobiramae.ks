@@ -1,0 +1,5 @@
+[preload  storage="./data/bgimage/rouka.jpg"  ]
+[preload  storage="./data/fgimage/chara/5/utumuki.png"  ]
+[preload  storage="./data/fgimage/chara/5/odoroki.png"  ]
+[preload  storage="./data/fgimage/chara/5/namidame.png"  ]
+[return]

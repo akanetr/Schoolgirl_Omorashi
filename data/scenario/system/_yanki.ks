@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/room1330.jpg"  ]
+[preload  storage="./data/fgimage/chara/5/hanme.png"  ]
+[preload  storage="./data/fgimage/chara/5/utumuki2.png"  ]
+[preload  storage="./data/fgimage/chara/5/odoroki2.png"  ]
+[preload  storage="./data/fgimage/chara/5/odoroki.png"  ]
+[return]

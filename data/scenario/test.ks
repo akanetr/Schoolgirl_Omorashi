@@ -1,0 +1,8 @@
+[tb_clear_images][mask time=200][bg  time="1"  storage="rouka.jpg"  _tb_parts_type="bg"  ]
+[tb_replay_image_button  graphic="教室ルート1.png"  storage="kyoshitsu_omorashi.ks"  target="*start"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="300"  height="200"  x="100"  y="100"  _tb_parts_type="replay_image_button"  id="kyoshitsu"  ]
+[button  graphic="config/c_btn_back.png"  storage="title_screen.ks"  target=""  time="1"  width="100"  height="100"  x="860"  y="0"  _tb_parts_type="button"  ]
+[tb_replay_image_button  graphic="tobira_omorashi1.png"  storage="toilemae_omorashi.ks"  target="*start"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="300"  height="200"  x="420"  y="100"  _tb_parts_type="replay_image_button"  id="toiremae"  ]
+[tb_replay_image_button  graphic="toire_omorashi1.png"  storage="kirie_omorashi.ks"  target="*start"  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="300"  height="200"  x="100"  y="320"  _tb_parts_type="replay_image_button"  id="kirie"  ]
+[tb_replay_image_button  graphic="イラスト2.png"  storage="omake_kirie.ks"  target=""  role="sleepgame"  no_graphic="&sf._tb_replay_noimage"  time="1"  width="300"  height="200"  x="420"  y="320"  _tb_parts_type="replay_image_button"  id="omake_kirie"  ]
+[mask_off time=200] 
+[s] 
